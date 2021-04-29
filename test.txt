@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ttttt
 
 asdfasdf
+=======
+sdf
+>>>>>>> dev
